@@ -8,7 +8,7 @@ description: >-
 
 ### Première connexion
 
-Votre première connexion vous mènera à un page spécifique sur laquelle vous allez devoir définir quel sera **votre département par défaut**. Si vous enseignez dans plusieurs départements, ce choix n'engage à rien puisque vous pourrez bien entendu en changer par la suite.
+Votre première connexion vous mènera à une page spécifique sur laquelle vous allez devoir définir quel sera **votre département par défaut**. Si vous enseignez dans plusieurs départements, ce choix n'engage à rien puisque vous pourrez bien entendu en changer par la suite.
 
 <figure><img src="../.gitbook/assets/choix_dept.png" alt=""><figcaption><p>page de choix du département</p></figcaption></figure>
 
@@ -19,7 +19,7 @@ Le Dashboard rassemble l'ensemble des travaux des étudiants de votre départeme
 #### Evaluation des traces
 
 Dans un premier temps, vous allez trouver la section d'évaluation des traces. \
-Elle rassemble l'ensemble des traces créées par les étudiants de votre département mais vous pouvez filtrer les resultats par année, par compétences, par groupe et par étudiants (les filtres sont cumulables). \
+Elle rassemble l'ensemble des traces créées par les étudiants de votre département mais vous pouvez filtrer les resultats par années, par compétences, par groupes et par étudiants (les filtres sont cumulables). \
 Les resultats sont un condensé des informations essentielles pour se repérer : le titre, l'étudiant, la date de dernière modification et les compétences couvertes avec leur état d'évaluation (⌛ en attente d'évaluation, ❌ non acquis, ⬆ en cours d'acquisition, ✅ acquis).
 
 Le système d'évaluation des traces est simple. Quand l'étudiant créé une trace, il y indique quelle.s compétence.s elle est sensé confirmer. \
