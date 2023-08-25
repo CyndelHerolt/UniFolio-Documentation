@@ -18,8 +18,8 @@ Justifier l'acquisition de l'ensemble des compétences enseignées pendant la fo
 
 ## Vous êtes :&#x20;
 
-{% content-ref url="overview/enseignant/" %}
-[enseignant](overview/enseignant/)
+{% content-ref url="overview/enseignant.md" %}
+[enseignant.md](overview/enseignant.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/etudiant.md" %}

@@ -5,8 +5,7 @@
 ## Overview
 
 * [📝 Inscription](overview/inscription.md)
-* [🧑🏫 Enseignant](overview/enseignant/README.md)
-  * [Evaluation des portfolios](overview/enseignant/evaluation-des-portfolios.md)
+* [🧑🏫 Enseignant](overview/enseignant.md)
 * [🧑🎓 Etudiant](overview/etudiant.md)
 * [🧑💻 Administrateur](overview/administrateur.md)
 

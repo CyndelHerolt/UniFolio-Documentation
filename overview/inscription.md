@@ -4,8 +4,6 @@ description: Le même processus pour les enseignants et les étudiants
 
 # 📝 Inscription
 
-### Inscription
-
 Lors de votre première visite sur UniFolio, vous allez trouver en haut à droite de votre écran le bouton Inscription. Il vous mène sur cette page.
 
 <div align="left" data-full-width="false">
