@@ -5,7 +5,10 @@
 ## Overview
 
 * [📝 Inscription](overview/inscription.md)
-* [🧑🏫 Enseignant](overview/enseignant.md)
+* [🧑🏫 Enseignant](overview/enseignant/README.md)
+  * [Première connexion](overview/enseignant/premiere-connexion.md)
+  * [Evaluation des traces](overview/enseignant/evaluation-des-traces.md)
+  * [Evaluation des portfolios](overview/enseignant/evaluation-des-portfolios.md)
 * [🧑🎓 Etudiant](overview/etudiant.md)
 * [🧑💻 Administrateur](overview/administrateur.md)
 
