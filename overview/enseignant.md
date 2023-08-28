@@ -12,6 +12,10 @@ Votre première connexion vous mènera à une page spécifique sur laquelle vous
 
 <figure><img src="../.gitbook/assets/choix_dept.png" alt=""><figcaption><p>page de choix du département</p></figcaption></figure>
 
+C'est grace à ce bouton qui se trouve dans le menu que vous pouvez à tout moment changer de département.
+
+<figure><img src="../.gitbook/assets/choix_dept2.png" alt=""><figcaption><p>bouton de changement de département</p></figcaption></figure>
+
 ### Tableau de bord
 
 Le Dashboard rassemble l'ensemble des travaux des étudiants de votre département et constitue votre point d'entrée pour les évaluer.
@@ -28,7 +32,7 @@ De votre côté, quand vous la visualisez, il vous suffit de cocher l'une des tr
 Dès lors que vous avez trouvé la trace que vous souhaitez évaluer, il vous suffit de **dérouler la petite carte** qui la compose afin d'accéder à son contenu détaillé. A la suite du contenu, vous pouvez évaluer les compétences et laisser un ou plusieurs commentaires.
 
 Vous avez la possibilité de laisser des **commentaires publics et privés**.\
-Les commentaires publics seront visibles aussi bien de l'étudiant que des autres enseignants du département alors que les commentaires privés vous permettent d'échanger entre enseignants, sans que l'étudiant puisse les voir.
+Les commentaires publics seront visibles aussi bien de l'étudiant que des autres enseignants du département alors que les commentaires privés vous permettent d'échanger entre enseignants.
 
 {% hint style="info" %}
 Les étudiants ne peuvent pas vous répondre ou commenter leurs propres travaux.
@@ -38,3 +42,16 @@ Les étudiants ne peuvent pas vous répondre ou commenter leurs propres travaux.
 
 #### Evaluation des portfolios
 
+Toujours sur votre dashboard, vous allez trouver la section d'évaluation des portfolios. Le principe est sensiblement le même que pour les traces ; l'ensemble des portfolios des étudiants du département sont affichés, il suffit de filtrer pour amoindrir le nombre de resultats.&#x20;
+
+Pour chaque portfolio sont affichées les compétences couvertes par l'étudiant ainsi que leur pourcentage de validation **(qui ne prend en compte que les compétences marquées comme acquises).** Cliquez sur "Accéder au portfolio" afin d'en visualiser et évaluer le contenu.
+
+<figure><img src="../.gitbook/assets/eval_portfolio1.png" alt=""><figcaption><p>dashboard, section évaluation des portfolios</p></figcaption></figure>
+
+Sur la page de visualisation du portfolio sont regroupées les pages qui le composent _(sur l'exemple il n'y en a qu'une mais il pourrait très bien en avoir plusieurs)_, le pourcentage de validation des compétences pour chacune d'entre elle ainsi qu'un formulaire permettant de laisser un commentaire. **Ce commentaire fait office de bilan général du portfolio.**&#x20;
+
+Cliquez sur une page pour accéder à son contenu. Vous pouvez alors évaluer chaque trace de la même manière qu'il est possible de le faire individuellement depuis le dashboard.
+
+<figure><img src="../.gitbook/assets/eval_portfolio2.png" alt=""><figcaption><p>affichage du portfolio</p></figcaption></figure>
+
+Ces deux procédés vous permettent d'orienter votre évaluation soit trace par trace, soit portfolio par portfolio selon vos besoins.
