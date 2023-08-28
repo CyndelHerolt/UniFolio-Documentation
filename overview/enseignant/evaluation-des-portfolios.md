@@ -8,6 +8,8 @@ Pour chaque portfolio sont affichées les compétences couvertes par l'étudiant
 
 Sur la page de visualisation du portfolio sont regroupées les pages qui le composent _(sur l'exemple il n'y en a qu'une mais il pourrait très bien en avoir plusieurs)_, le pourcentage de validation des compétences pour chacune d'entre elle ainsi qu'un formulaire permettant de laisser un commentaire. **Ce commentaire fait office de bilan général du portfolio.**&#x20;
 
+<figure><img src="../../.gitbook/assets/eval_portfolio2.png" alt=""><figcaption><p>affichage du portfolio</p></figcaption></figure>
+
 Cliquez sur une page pour accéder à son contenu. Vous pouvez alors évaluer chaque trace de la même manière qu'il est possible de le faire individuellement depuis le dashboard.
 
-<figure><img src="../../.gitbook/assets/eval_portfolio2.png" alt=""><figcaption><p>affichage du portfolio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/eval_portfolio3.png" alt=""><figcaption><p>visualisation d'une trace dans sa page</p></figcaption></figure>
