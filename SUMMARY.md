@@ -9,7 +9,12 @@
   * [Première connexion](overview/enseignant/premiere-connexion.md)
   * [Evaluation des traces](overview/enseignant/evaluation-des-traces.md)
   * [Evaluation des portfolios](overview/enseignant/evaluation-des-portfolios.md)
-* [🧑🎓 Etudiant](overview/etudiant.md)
+* [🧑🎓 Etudiant](overview/etudiant/README.md)
+  * [Première connexion](overview/etudiant/premiere-connexion.md)
+  * [Créer un portfolio](overview/etudiant/creer-un-portfolio.md)
+  * [Créer une trace](overview/etudiant/creer-une-trace.md)
+  * [Créer un CV](overview/etudiant/creer-un-cv.md)
+  * [Bilan pédagogique](overview/etudiant/bilan-pedagogique.md)
 * [🧑💻 Administrateur](overview/administrateur.md)
 
 ## Product Guides

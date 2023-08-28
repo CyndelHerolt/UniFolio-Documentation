@@ -22,8 +22,8 @@ Justifier l'acquisition de l'ensemble des compétences enseignées pendant la fo
 [enseignant](overview/enseignant/)
 {% endcontent-ref %}
 
-{% content-ref url="overview/etudiant.md" %}
-[etudiant.md](overview/etudiant.md)
+{% content-ref url="overview/etudiant/" %}
+[etudiant](overview/etudiant/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/administrateur.md" %}
