@@ -5,7 +5,7 @@ description: L'évaluation des traces se fait depuis votre Tableau de bord
 # Evaluation des traces
 
 {% tabs %}
-{% tab title="Processus" %}
+{% tab title="Processus diagramme" %}
 <figure><img src="../../.gitbook/assets/UniFolio eval trace (3).png" alt=""><figcaption><p>Processus d'évaluation d'une trace</p></figcaption></figure>
 {% endtab %}
 

@@ -9,6 +9,7 @@
   * [Première connexion](overview/enseignant/premiere-connexion.md)
   * [Evaluation des traces](overview/enseignant/evaluation-des-traces.md)
   * [Evaluation des portfolios](overview/enseignant/evaluation-des-portfolios.md)
+  * [Bilan pédagogique](overview/enseignant/bilan-pedagogique.md)
 * [🧑🎓 Etudiant](overview/etudiant/README.md)
   * [Première connexion](overview/etudiant/premiere-connexion.md)
   * [Créer un portfolio](overview/etudiant/creer-un-portfolio.md)

@@ -5,8 +5,8 @@ description: Le même processus pour les enseignants et les étudiants
 # 📝 Inscription
 
 {% tabs %}
-{% tab title="Processus" %}
-
+{% tab title="Processus diagramme" %}
+<figure><img src="../.gitbook/assets/UniFolio eval trace (5).png" alt=""><figcaption><p>Processus d'inscription</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Processus argumenté" %}
