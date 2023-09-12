@@ -1,6 +1,8 @@
 # Première connexion
 
-
+{% hint style="info" %}
+Votre compte UniFolio ainsi que son contenu vous sera accessible jusqu'à **5 ans après la fin de votre cursus**. Vous pourrez alors extraire vos portfolios au format PDF afin de ne pas perdre votre travail.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Processus logigramme" %}
