@@ -5,7 +5,7 @@ description: L'évaluation des portfolios se fait depuis votre Tableau de bord
 # Evaluation des portfolios
 
 {% tabs %}
-{% tab title="Processus diagramme" %}
+{% tab title="Processus logigramme" %}
 <figure><img src="../../.gitbook/assets/UniFolio eval trace (1).png" alt=""><figcaption><p>Processus d'évaluation d'un portfolio</p></figcaption></figure>
 {% endtab %}
 
