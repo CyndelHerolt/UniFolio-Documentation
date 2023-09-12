@@ -1,3 +1,9 @@
+---
+description: >-
+  La création d'un portfolio peut se faire depuis le dashboard ou depuis la
+  biblitohèque de portfolios.
+---
+
 # Création d'un portfolio
 
 {% hint style="info" %}
