@@ -14,8 +14,8 @@
 * [🧑🎓 Etudiant](overview/etudiant/README.md)
   * [Première connexion](overview/etudiant/premiere-connexion.md)
   * [Création d'un portfolio](overview/etudiant/creation-dun-portfolio.md)
-  * [Créer une trace](overview/etudiant/creer-une-trace.md)
-  * [Créer un CV](overview/etudiant/creer-un-cv.md)
+  * [Création d'une trace](overview/etudiant/creation-dune-trace.md)
+  * [Création d'un CV](overview/etudiant/creation-dun-cv.md)
   * [Bilan pédagogique](overview/etudiant/bilan-pedagogique.md)
 * [🧑💻 Administrateur](overview/administrateur.md)
 
