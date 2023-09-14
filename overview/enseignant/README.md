@@ -23,3 +23,11 @@ Le Dashboard rassemble l'ensemble des travaux des étudiants de votre départeme
 {% endcontent-ref %}
 
 Ces deux procédés vous permettent d'orienter votre évaluation soit trace par trace, soit portfolio par portfolio selon vos besoins.
+
+### Bilan pédagogique
+
+Pour une vue plus globale de l'ensemble des portfolios des étudiants de votre département et un focus sur les compétences non validées ou non évaluées.
+
+{% content-ref url="bilan-pedagogique.md" %}
+[bilan-pedagogique.md](bilan-pedagogique.md)
+{% endcontent-ref %}
