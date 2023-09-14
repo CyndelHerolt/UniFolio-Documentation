@@ -14,7 +14,7 @@ Dans notre contexte, un portfolio est un recueil de témoignages, de travaux, de
 Il est composé d'un ensemble de pages, qui sont elles-mêmes de simples conteneurs dans lesquels sont organisées des traces[^1]. Chaque trace est liée à une ou plusieurs compétences, dont la validation doit être confirmée par le contenu de cette dernière.
 
 **L'objectif du portfolio est simple :** \
-Justifier l'acquisition de l'ensemble des compétences enseignées pendant la formation en présentant des démarches, des réflexions, des solutions élaborées au cours de travaux personnels et universitaires.
+Justifier l'acquisition de l'ensemble des compétences enseignées pendant la formation en présentant des démarches, des réflexions, des solutions élaborées au cours de travaux personnels, professionnels et universitaires.
 
 ## Vous êtes :&#x20;
 
