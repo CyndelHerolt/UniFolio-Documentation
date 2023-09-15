@@ -1,37 +1,26 @@
 # Table of contents
 
-* [UniFolio](README.md)
+* [UniFolio - Découverte](README.md)
 
-## Overview
+## Guide d'utilisation
 
-* [📝 Inscription](overview/inscription.md)
-* [🧑🏫 Enseignant](overview/enseignant/README.md)
-  * [Première connexion](overview/enseignant/premiere-connexion.md)
-  * [Evaluation des traces](overview/enseignant/evaluation-des-traces.md)
-  * [Evaluation des portfolios](overview/enseignant/evaluation-des-portfolios.md)
-  * [Bilan pédagogique](overview/enseignant/bilan-pedagogique.md)
-  * [FAQ](overview/enseignant/faq.md)
-* [🧑🎓 Etudiant](overview/etudiant/README.md)
-  * [Première connexion](overview/etudiant/premiere-connexion.md)
-  * [Création d'un portfolio](overview/etudiant/creation-dun-portfolio.md)
-  * [Création d'une trace](overview/etudiant/creation-dune-trace.md)
-  * [Retours pédagogiques](overview/etudiant/retours-pedagogiques.md)
-  * [Création d'un CV](overview/etudiant/creation-dun-cv.md)
-  * [Bilan pédagogique](overview/etudiant/bilan-pedagogique.md)
-* [🧑💻 Administrateur](overview/administrateur.md)
+* [📝 Inscription](guide-dutilisation/inscription.md)
+* [🧑🏫 Enseignant](guide-dutilisation/enseignant/README.md)
+  * [Première connexion](guide-dutilisation/enseignant/premiere-connexion.md)
+  * [Evaluation des traces](guide-dutilisation/enseignant/evaluation-des-traces.md)
+  * [Evaluation des portfolios](guide-dutilisation/enseignant/evaluation-des-portfolios.md)
+  * [Bilan pédagogique](guide-dutilisation/enseignant/bilan-pedagogique.md)
+  * [FAQ](guide-dutilisation/enseignant/faq.md)
+* [🧑🎓 Etudiant](guide-dutilisation/etudiant/README.md)
+  * [Première connexion](guide-dutilisation/etudiant/premiere-connexion.md)
+  * [Création d'un portfolio](guide-dutilisation/etudiant/creation-dun-portfolio.md)
+  * [Création d'une trace](guide-dutilisation/etudiant/creation-dune-trace.md)
+  * [Retours pédagogiques](guide-dutilisation/etudiant/retours-pedagogiques.md)
+  * [Création d'un CV](guide-dutilisation/etudiant/creation-dun-cv.md)
+  * [Bilan pédagogique](guide-dutilisation/etudiant/bilan-pedagogique.md)
+* [🧑💻 Administrateur](guide-dutilisation/administrateur.md)
 
-## Product Guides
+## Contribuer au projet
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🖥 For Developers](contribuer-au-projet/for-developers.md)
+* [🎨 For Designers](contribuer-au-projet/for-designers.md)

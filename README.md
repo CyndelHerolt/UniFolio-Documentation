@@ -5,7 +5,7 @@ description: >-
   l'IUT de Troyes.
 ---
 
-# UniFolio
+# UniFolio - Découverte
 
 ## Comprendre le portfolio universitaire
 
@@ -16,18 +16,22 @@ Il est composé d'un ensemble de pages, qui sont elles-mêmes de simples contene
 **L'objectif du portfolio est simple :** \
 Justifier l'acquisition de l'ensemble des compétences enseignées pendant la formation en présentant des démarches, des réflexions, des solutions élaborées au cours de travaux personnels, professionnels et universitaires.
 
+### Structure du portfolio
+
+<figure><img src=".gitbook/assets/UniFolio eval trace (13).png" alt=""><figcaption><p>Structure du portfolio</p></figcaption></figure>
+
 ## Vous êtes :&#x20;
 
-{% content-ref url="overview/enseignant/" %}
-[enseignant](overview/enseignant/)
+{% content-ref url="guide-dutilisation/enseignant/" %}
+[enseignant](guide-dutilisation/enseignant/)
 {% endcontent-ref %}
 
-{% content-ref url="overview/etudiant/" %}
-[etudiant](overview/etudiant/)
+{% content-ref url="guide-dutilisation/etudiant/" %}
+[etudiant](guide-dutilisation/etudiant/)
 {% endcontent-ref %}
 
-{% content-ref url="overview/administrateur.md" %}
-[administrateur.md](overview/administrateur.md)
+{% content-ref url="guide-dutilisation/administrateur.md" %}
+[administrateur.md](guide-dutilisation/administrateur.md)
 {% endcontent-ref %}
 
 
