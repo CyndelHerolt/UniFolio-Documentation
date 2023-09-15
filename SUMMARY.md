@@ -15,6 +15,7 @@
   * [Première connexion](overview/etudiant/premiere-connexion.md)
   * [Création d'un portfolio](overview/etudiant/creation-dun-portfolio.md)
   * [Création d'une trace](overview/etudiant/creation-dune-trace.md)
+  * [Retours pédagogiques](overview/etudiant/retours-pedagogiques.md)
   * [Création d'un CV](overview/etudiant/creation-dun-cv.md)
   * [Bilan pédagogique](overview/etudiant/bilan-pedagogique.md)
 * [🧑💻 Administrateur](overview/administrateur.md)
