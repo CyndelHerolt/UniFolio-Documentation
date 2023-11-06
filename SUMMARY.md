@@ -18,4 +18,3 @@
   * [Création d'un CV](guide-dutilisation/etudiant/creation-dun-cv.md)
   * [Retours pédagogiques](guide-dutilisation/etudiant/retours-pedagogiques.md)
   * [Bilan pédagogique](guide-dutilisation/etudiant/bilan-pedagogique.md)
-* [🧑💻 Administrateur](guide-dutilisation/administrateur.md)

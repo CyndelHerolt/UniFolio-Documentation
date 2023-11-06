@@ -30,8 +30,8 @@ Justifier l'acquisition de l'ensemble des compétences enseignées pendant la fo
 [etudiant](guide-dutilisation/etudiant/)
 {% endcontent-ref %}
 
-{% content-ref url="guide-dutilisation/administrateur.md" %}
-[administrateur.md](guide-dutilisation/administrateur.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
