@@ -15,12 +15,7 @@
   * [Première connexion](guide-dutilisation/etudiant/premiere-connexion.md)
   * [Création d'un portfolio](guide-dutilisation/etudiant/creation-dun-portfolio.md)
   * [Création d'une trace](guide-dutilisation/etudiant/creation-dune-trace.md)
-  * [Retours pédagogiques](guide-dutilisation/etudiant/retours-pedagogiques.md)
   * [Création d'un CV](guide-dutilisation/etudiant/creation-dun-cv.md)
+  * [Retours pédagogiques](guide-dutilisation/etudiant/retours-pedagogiques.md)
   * [Bilan pédagogique](guide-dutilisation/etudiant/bilan-pedagogique.md)
 * [🧑💻 Administrateur](guide-dutilisation/administrateur.md)
-
-## Contribuer au projet
-
-* [🖥 For Developers](contribuer-au-projet/for-developers.md)
-* [🎨 For Designers](contribuer-au-projet/for-designers.md)
