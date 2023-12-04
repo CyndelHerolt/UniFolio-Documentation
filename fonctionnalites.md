@@ -31,5 +31,14 @@
   * Commentaires privés (visible uniquement des autres enseignants)
   * Possibilité de répondre au commentaire d'un collègue
   * Publication d'un commentaire "bilan" pour un portfolio
-  *
+* Suivi pédagogique
+  * Visualisation de l'ensemble des étudiants du département, de l'état d'avancement de leurs productions (% de validation/évaluation des compétences, nombre de traces dans un portfolio etc)
+
+## Fonctionnalités à venir
+
+* Mise en place d'une "galerie de portfolios" publiques.
+  * Si un étudiant le souhaite, il pourra publier son portfolio dans cette galerie qui pourra être présentée à un bassin d'entreprise grace à son caractère public. Utile si recherche de stage ou d'alternance.
+* Vérification que tous les étudiants ont bien créé leur compte.
+* Système de template
+  * Proposer quelques modèles de templates aux étudiants pour la mise en forme de leur portfolio. Avec possibilité de modeler la structure du template : système de colonnes et de lignes, choix des couleurs etc
 
