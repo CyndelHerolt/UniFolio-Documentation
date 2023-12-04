@@ -27,7 +27,7 @@ Si jamais après ces étapes, vous ne recevez pas le mail de vérification, adre
 Le lien vous redirige alors vers la page de [connexion,](enseignant/premiere-connexion.md) sur laquelle vous pouvez utiliser votre login URCA et votre mot de passe afin d'accéder à votre compte.
 
 {% hint style="info" %}
-Afin de créer et alimenter votre espace, UniFolio récupère directement vos données depuis l'Intranet lorsque vous validez votre compte à l'aide du lien envoyé par mail. Vous pouvez les consulter depuis la page profil et accéder au détail du traitement de vos données personnelles [ici](https://localhost:8000/rgpd).
+Afin de créer et alimenter votre espace, UniFolio récupère directement vos données depuis l'Intranet lorsque vous validez votre compte à l'aide du lien envoyé par mail. Vous pouvez les consulter depuis la page profil et accéder au détail du traitement de vos données personnelles [ici](https://portfolio.iut-troyes.univ-reims.fr/rgpd).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
