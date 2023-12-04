@@ -1,6 +1,7 @@
 # Table of contents
 
 * [UniFolio - Découverte](README.md)
+* [Fonctionnalités](fonctionnalites.md)
 
 ## Guide d'utilisation
 
